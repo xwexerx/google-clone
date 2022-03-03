@@ -41,3 +41,55 @@ a {
     width: 35px;
     border-radius: 50%;
 }
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 300px;
+}
+
+.mainContentGroup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.searchBarGroup {
+    display: flex;
+    gap: 20px;
+    border: 1px solid #5f6368;
+    border-radius: 2em;
+    padding: 15px 20px 15px 20px;
+}
+
+.searchLogo {
+    width: 15px;
+}
+
+.inputField {
+    background-color: #202124;
+    outline: none;
+    width: 35em;
+}
+
+.microphoneLogo {
+    width: 11px;
+}
+
+.underSearchButtons {
+    display: flex;
+    gap: 20px;
+}
+
+button {
+    background-color: #303134;
+    color: white;
+    padding: 10px 18px 10px 18px;
+    border-radius: 0.25em;
+    font-size: 14px;
+}
+
