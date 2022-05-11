@@ -11,7 +11,7 @@ The project took me about two and a half hours and I really enjoyed making it.
 
 	
 ## Technologies
-Project is created with:
+Project was created with:
 * HTML
 * CSS
 	
